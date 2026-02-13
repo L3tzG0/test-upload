@@ -1,0 +1,8 @@
+node_modules
+coverage
+dist
+.vite
+.git
+.github
+reports
+.env
